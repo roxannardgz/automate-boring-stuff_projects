@@ -1,6 +1,12 @@
 # Automate the Boring Stuff with Python
-## Practice Projects
+### My Solutions to the Practice Projects
 
-### Book by Al Sweigart - 2nd Ed
+[Book](https://automatetheboringstuff.com/) by [**Al Sweigart**](https://alsweigart.com/) - 2nd Ed
 
-### My solutions to the Practice Projects
+<br>
+
+
+
+
+#### Chapter 3 - Functions
++ The Collatz Sequence
