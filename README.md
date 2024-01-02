@@ -17,3 +17,7 @@
 + Character Picture Grid
 
 #### Chapter 5 - Dictionaries and Structuring Data
++ Chess Dictionary Validator
++ Fantasy Game Inventory
++ List to Dictionary Function
+
