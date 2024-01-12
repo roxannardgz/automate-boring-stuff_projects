@@ -28,14 +28,16 @@ def multiplication_quiz(num_questions,seconds,tries):
             print('Correct!')
             correct += 1
         
-        time.sleep(1)
+        time.sleep(1)       #pause before next questions or final result
     
-    print(f'You got {correct} out of {num_questions}.')
+    print(f'You got {correct} out of {num_questions}.')     #show final grade
 
+#settings
 seconds = 8
 tries = 3
 questions = 10
 
+#welcome messages and start of quiz
 print('Welcome to the multiplication quiz!')
 print(f'You will have {questions} multiplication questions to answer.')
 print(f'You will have {seconds} seconds to answer and {tries} tries per question.')
@@ -44,4 +46,4 @@ ready = pyip.inputYesNo(prompt='Are you ready to start? ')
 if ready == 'yes':
     multiplication_quiz(questions, seconds, tries)
 else:
-    print('The go to study and come back later.')
+    print('Then go to study and come back later.')
