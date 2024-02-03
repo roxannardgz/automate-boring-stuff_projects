@@ -21,3 +21,25 @@
 + Fantasy Game Inventory
 + List to Dictionary Function
 
+#### Chapter 6 - Manipulating Strings
++ Table Printer
+
+#### Chapter 7 - Pattern Matching with Regular Expressions
++ Date Detection
++ Regex Strip
++ Strong Password Detection
+
+#### Chapter 8 - Input Validation
++ Multiplication Quiz
++ Sandwich Maker
+
+#### Chapter 9 - Reading and Writing Files
+
+
+#### Chapter 10 - Organizing Files
+
+
+#### Chapter 11 - Debugging
+
+
+#### Chapter 12 - Web Scrapping
