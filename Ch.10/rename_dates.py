@@ -1,6 +1,6 @@
 #! python3
 
-# renameDates.py - Rename filenames with American MM-DD-YYYY date format
+# rename_dates.py - Rename filenames with American MM-DD-YYYY date format
 # to European DD-MM-YYYY format.
 
 import shutil, os, re
@@ -13,7 +13,7 @@ date_pattern = re.compile(r"""(.*?)
                           (.*?)$
                           """, re.VERBOSE)
 
-# Loop over the files in the working diretory
+# Loop over the files in the working directory
 for american_filename in os.listdir('.'):
     mo = date_pattern.search(american_filename)
 
