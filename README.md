@@ -34,9 +34,13 @@
 + Sandwich Maker
 
 #### Chapter 9 - Reading and Writing Files
-
++ Extending the Multi-Clipboard
++ Mad Libs
++ Random Quiz Generator
++ Regex Search
 
 #### Chapter 10 - Organizing Files
++ Rename Dates
 
 
 #### Chapter 11 - Debugging
